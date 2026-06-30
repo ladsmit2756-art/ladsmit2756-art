@@ -322,7 +322,7 @@ while(!success)
 
 ---
 
-# 🎯 2025 Goals
+# 🎯 2026 Goals
 
 - ✅ Solve 500+ DSA Problems
 - ✅ Master MERN Stack
