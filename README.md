@@ -25,15 +25,9 @@
 <img width="736" height="1308" alt="Samurai" src="https://github.com/user-attachments/assets/487e4a1d-430a-4f5a-9336-6243b75d4b55" />
 
 </p>
-<details>
-  <summary><b>📈 $ github --3d-activity</b></summary>
-  <br>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SMIT-LAD-CODER&theme=github-compact&bg_color=1e293b&color=5b80a6&line=5b80a6&point=ffffff" alt="Activity Graph" />
-  </p>
-</details>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Graph" />
+</p>
 
 <details>
   <summary><b> Click to view $ whoami</b></summary>
