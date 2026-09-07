@@ -1,123 +1,88 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,100:2d2d2d&text=SMIT%20LAD&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer&descAlignY=58&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1e293b,50:5b80a6,100:94a3b8&text=SMIT%20LAD&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%F0%9F%95%B5%EF%B8%8F%20Incognito%20Developer%20%7C%20Computer%20Engineering%20Student%20%7C%20MERN%20Stack&descAlignY=58&descSize=15"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&color=2ECC71&center=true&width=650&lines=Computer+Engineering+Student;Building+Software.;Learning+Everyday.;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1500&color=FFFFFF&center=true&width=650&lines=System.init(%22Incognito+Mode%22)%3B;Computer+Engineering+Student%20%40%20GCET;Building+Modern+Web+Applications;C%2B%2B%20%C2%B7%20JavaScript%20%C2%B7%20MERN%20Stack" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SMIT-LAD-CODER&label=Profile%20Views&color=2ECC71&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/SMIT-LAD-CODER?label=Followers&style=flat-square&color=2ECC71" />
-  <img src="https://img.shields.io/badge/Status-Online-2ECC71?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=SMIT-LAD-CODER&label=Incognito%20Visits&color=5b80a6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/SMIT-LAD-CODER?label=Followers&style=for-the-badge&color=1e293b" />
+  <img src="https://img.shields.io/badge/Status-Stealth_Mode_-5b80a6?style=for-the-badge" />
 </p>
 
 <br>
 
-## `$ neofetch`
+<div align="center">
+
+|  **INCOGNITO TERMINAL** |
+| :---: |
+
+</div>
+
+<p align="center">
+<img width="736" height="1308" alt="Samurai" src="https://github.com/user-attachments/assets/487e4a1d-430a-4f5a-9336-6243b75d4b55" />
+
+</p>
+<details>
+  <summary><b>📈 $ github --3d-activity</b></summary>
+  <br>
+
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SMIT-LAD-CODER&theme=github-compact&bg_color=1e293b&color=5b80a6&line=5b80a6&point=ffffff" alt="Activity Graph" />
+  </p>
+</details>
+
+
+<details>
+  <summary><b> Click to view $ whoami</b></summary>
+  <br>
+
+  ```yaml
+  name: Smit Lad
+  role: Computer Engineering Student
+  focus:
+    - MERN Stack Development
+    - Data Structures & Algorithms
+  goal: Become a Software Engineer
 
 ```text
-███████╗███╗   ███╗██╗████████╗
-██╔════╝████╗ ████║██║╚══██╔══╝
-███████╗██╔████╔██║██║   ██║
-╚════██║██║╚██╔╝██║██║   ██║
-███████║██║ ╚═╝ ██║██║   ██║
-╚══════╝╚═╝     ╚═╝╚═╝   ╚═╝
-                 સ્મિત
-──────────────────────────────────────────────
-OS          Windows 11
-Editor      VS Code
-Shell       PowerShell
-Language    C++  ·  JavaScript
-Frontend    HTML  ·  CSS  ·  React
-Backend     Node.js  ·  Express
-Database    MongoDB  ·  MySQL
-Status      ● Online
-```
-
-<br>
-
-## `$ whoami`
-
-```yaml
-name: Smit Lad
+███████╗███╗    ███╗██╗████████╗
+██╔════╝████╗  ████║██║╚══██╔══╝
+███████╗██╔████╔██║██║   ██║    
+╚════██║██║╚██╔╝██║██║   ██║    
+███████║██║ ╚═╝ ██║██║   ██║    
+╚══════╝╚═╝     ╚═╝╚═╝   ╚═╝    
+                  સ્મિત
+─────────────────────────────────────────────────────────────
+Identity     : Smit Lad
+Classification: Computer Engineering Student (GCET)
+Aesthetic    : Steel Blue Incognito Agent 
+OS           : Windows 11
+Editor       : VS Code (Dark + Steel Accent)
+Languages    : C++  ·  JavaScript (ES6+)
+Frontend     : HTML5  ·  CSS3  ·  React.js
+Backend      : Node.js  ·  Express.js
+Databases    : MongoDB  ·  MySQL
+Status       : Operating Under the Radar
+─────────────────────────────────────────────────────────────
+agent: Smit Lad
 role: Computer Engineering Student
-focus:
-  - MERN Stack Development
-  - Data Structures & Algorithms
-  - Backend Development
-goal: Become a Software Engineer
-currently_building: Portfolio Website
-```
+clearance: Level 1 - MERN Developer & C++ Programmer
+current_mission:
+  - Mastering Data Structures & Algorithms
+  - Building Full-Stack Web Applications
+  - Developing Portfolio & Enterprise Tools
+motto: "Code in the dark, let your software make the noise."
 
-<br>
+📁 projects/
+├── 📚 library-management-system/      [C++ / Database]
+├── 👨‍💼 hr-management-system/           [MERN Stack]
+├── 💼 assetflow-enterprise/           [Resource Mgmt System]
+├── 🌐 personal-portfolio/             [React + Tailwind]
+└── 🚀 stealth-project-v2/             [In Development...]
 
-## `$ ls skills`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" />
-</p>
 
-<br>
-
-## `$ tree projects`
-
-```text
-📂 Projects
-├── 📚 Library Management System
-├── 👨‍💼 HR Management System
-├── 🌐 Portfolio Website
-└── 🚀 More Coming Soon...
-```
-
-<br>
-
-## `$ github --stats`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SMIT-LAD-CODER&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMIT-LAD-CODER&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SMIT-LAD-CODER&theme=github-dark-blue&hide_border=true&background=0D1117" />
-</p>
-
-<br>
-
-## `$ git graph`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SMIT-LAD-CODER&theme=github-compact&bg_color=0d1117&color=2ECC71&line=2ECC71&point=ffffff" />
-</p>
-
-<br>
-
-## `$ quote`
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=dark&type=horizontal" />
-</p>
-
-<br>
-
-## `$ connect`
-
-<p align="center">
-  <a href="https://github.com/SMIT-LAD-CODER"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/smit-lad-b2aaa135b"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:ladsmit.2756@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.instagram.com/_byte_smit"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
-
-<br>
-
-```bash
-$ exit
-Thank you for visiting.
-Have a great day.
-```
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:111111,100:2d2d2d"/>
-</p>
+Session classified. Closing secure terminal session...
